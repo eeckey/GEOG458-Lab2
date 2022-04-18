@@ -1,8 +1,8 @@
 # GEOG458-Lab2
-Emily Eckey 
-Lab 2. Geo-tagged tweet collection and visualization
-GEOG 458 Section AC 
-April 22, 2022
+* Emily Eckey 
+* Lab 2. Geo-tagged tweet collection and visualization
+* GEOG 458 Section AC 
+* April 22, 2022
 
 ### 1 Harvesting geo-tagged tweets using a API-based crawler
 I have created a Twitter crawler to collect geotagged tweets. Below I introduce my comparison of two time periods and why I want to make this comparison.
